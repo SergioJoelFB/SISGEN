@@ -1,0 +1,11 @@
+﻿
+
+CREATE TABLE [dbo].[REGISTRO](
+ 
+	[Id] INT NOT NULL,
+	[Nombre] VARCHAR(40) NOT NULL,
+	[Apellidos] VARCHAR(40) NOT NULL,
+	[Usuario] VARCHAR(40) NOT NULL,
+
+)
+
